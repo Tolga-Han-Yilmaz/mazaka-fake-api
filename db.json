@@ -143,6 +143,336 @@
       "price": 30,
 
       "badge": ["Coğrafi"]
+    },
+    {
+      "id": 113,
+      "name": "Bal",
+      "category": "Kahvaltılık",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2015/10/26/11/10/honey-1006972__340.jpg",
+
+      "price": 500,
+
+      "badge": ["Organik", "Gurme", "Coğrafi"]
+    },
+    {
+      "id": 114,
+      "name": "Et",
+      "category": "Et & Tavuk",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2016/03/05/23/02/barbecue-1239434__340.jpg",
+
+      "price": 300,
+
+      "badge": ["Organik", "Gurme", "Coğrafi"]
+    },
+    {
+      "id": 115,
+      "name": "Tavuk",
+      "category": "Et & Tavuk",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2014/04/05/11/19/turkey-315079__340.jpg",
+
+      "price": 90,
+
+      "badge": ["Organik", "Gurme"]
+    },
+    {
+      "id": 116,
+      "name": "Yoğurt",
+      "category": "Süt Ürünleri",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2016/06/07/17/15/yogurt-1442034__340.jpg",
+
+      "price": 50,
+
+      "badge": ["Gurme"]
+    },
+    {
+      "id": 117,
+      "name": "Elma",
+      "category": "Meyve",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2016/09/29/08/33/apple-1702316__340.jpg",
+
+      "price": 5,
+
+      "badge": ["Organik", "Coğrafi"]
+    },
+    {
+      "id": 118,
+      "name": "Muz",
+      "category": "Meyve",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2016/09/03/20/48/bananas-1642706__340.jpg",
+
+      "price": 30,
+
+      "badge": ["Coğrafi"]
+    },
+    {
+      "id": 119,
+      "name": "Domates",
+      "category": "Sebze",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2011/03/16/16/01/tomatoes-5356__340.jpg",
+
+      "price": 5,
+
+      "badge": ["Organik"]
+    },
+    {
+      "id": 120,
+      "name": "Salatalık",
+      "category": "Sebze",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2015/07/17/13/44/cucumbers-849269__340.jpg",
+
+      "price": 4,
+
+      "badge": ["Organik"]
+    },
+    {
+      "id": 121,
+      "name": "Süt",
+      "category": "Süt Ürünleri",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2017/07/05/15/41/milk-2474993__340.jpg",
+
+      "price": 10,
+
+      "badge": ["Organik", "Yöresel", "Coğrafi"]
+    },
+    {
+      "id": 122,
+      "name": "Peynir",
+      "category": "Süt Ürünleri",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2020/05/03/13/23/cheese-5125021__340.jpg",
+
+      "price": 120,
+
+      "badge": ["Organik", "Gurme", "Yöresel"]
+    },
+    {
+      "id": 123,
+      "name": "Zeytin",
+      "category": "Kahvaltılık",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2018/06/10/17/40/olives-3466908__340.jpg",
+
+      "price": 50,
+
+      "badge": ["Organik", "Coğrafi"]
+    },
+    {
+      "id": 124,
+      "name": "Reçel",
+      "category": "Kahvaltılık",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2018/10/27/08/46/fig-jam-3776037__340.jpg",
+
+      "price": 40,
+
+      "badge": ["Gurme", "Yöresel"]
+    },
+    {
+      "id": 125,
+      "name": "Bal",
+      "category": "Kahvaltılık",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2015/10/26/11/10/honey-1006972__340.jpg",
+
+      "price": 500,
+
+      "badge": ["Organik", "Gurme", "Coğrafi"]
+    },
+    {
+      "id": 126,
+      "name": "Et",
+      "category": "Et & Tavuk",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2016/03/05/23/02/barbecue-1239434__340.jpg",
+
+      "price": 300,
+
+      "badge": ["Organik", "Gurme", "Coğrafi"]
+    },
+    {
+      "id": 127,
+      "name": "Tavuk",
+      "category": "Et & Tavuk",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2014/04/05/11/19/turkey-315079__340.jpg",
+
+      "price": 90,
+
+      "badge": ["Organik", "Gurme"]
+    },
+    {
+      "id": 128,
+      "name": "Yoğurt",
+      "category": "Süt Ürünleri",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2016/06/07/17/15/yogurt-1442034__340.jpg",
+
+      "price": 50,
+
+      "badge": ["Gurme"]
+    },
+    {
+      "id": 129,
+      "name": "Elma",
+      "category": "Meyve",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2016/09/29/08/33/apple-1702316__340.jpg",
+
+      "price": 5,
+
+      "badge": ["Organik", "Coğrafi"]
+    },
+    {
+      "id": 130,
+      "name": "Muz",
+      "category": "Meyve",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2016/09/03/20/48/bananas-1642706__340.jpg",
+
+      "price": 30,
+
+      "badge": ["Coğrafi"]
+    },
+    {
+      "id": 131,
+      "name": "Bal",
+      "category": "Kahvaltılık",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2015/10/26/11/10/honey-1006972__340.jpg",
+
+      "price": 500,
+
+      "badge": ["Organik", "Gurme", "Coğrafi"]
+    },
+    {
+      "id": 132,
+      "name": "Et",
+      "category": "Et & Tavuk",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2016/03/05/23/02/barbecue-1239434__340.jpg",
+
+      "price": 300,
+
+      "badge": ["Organik", "Gurme", "Coğrafi"]
+    },
+    {
+      "id": 133,
+      "name": "Tavuk",
+      "category": "Et & Tavuk",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2014/04/05/11/19/turkey-315079__340.jpg",
+
+      "price": 90,
+
+      "badge": ["Organik", "Gurme"]
+    },
+    {
+      "id": 134,
+      "name": "Yoğurt",
+      "category": "Süt Ürünleri",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2016/06/07/17/15/yogurt-1442034__340.jpg",
+
+      "price": 50,
+
+      "badge": ["Gurme"]
+    },
+    {
+      "id": 135,
+      "name": "Elma",
+      "category": "Meyve",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2016/09/29/08/33/apple-1702316__340.jpg",
+
+      "price": 5,
+
+      "badge": ["Organik", "Coğrafi"]
+    },
+    {
+      "id": 136,
+      "name": "Muz",
+      "category": "Meyve",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "stock": 10,
+      "image": "https://cdn.pixabay.com/photo/2016/09/03/20/48/bananas-1642706__340.jpg",
+
+      "price": 30,
+
+      "badge": ["Coğrafi"]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Süt Ürünleri & Yumurta",
+      "image": "https://cdn.pixabay.com/photo/2015/11/19/11/39/nest-1050964__340.jpg"
+    },
+    {
+      "name": "Peynir",
+      "image": "https://cdn.pixabay.com/photo/2014/12/21/23/34/cheese-575540__340.png"
+    },
+    {
+      "name": "Unlu Mamülleri",
+      "image": "https://cdn.pixabay.com/photo/2017/07/23/18/23/bread-2532192__340.jpg"
+    },
+    {
+      "name": "Zeytin",
+      "image": "https://cdn.pixabay.com/photo/2017/01/19/11/01/olives-1992013__340.png"
+    },
+    {
+      "name": "Sucuk & Pastırma",
+      "image": "https://cdn.pixabay.com/photo/2014/08/24/20/14/cook-salami-426608__340.jpg"
+    },
+    {
+      "name": "Reçel & Marmelat",
+      "image": "https://cdn.pixabay.com/photo/2014/12/21/23/35/jam-575607__340.png"
+    },
+    {
+      "name": "Bal Ve Arı Ürünleri",
+      "image": "https://cdn.pixabay.com/photo/2015/06/27/16/35/honey-823614__340.jpg"
+    },
+    {
+      "name": "Fırsat Köşesi",
+      "image": "https://media.istockphoto.com/photos/3d-rendering-of-pastel-blue-portable-cordless-megaphone-stand-on-a-picture-id1302182297?b=1&k=20&m=1302182297&s=170667a&w=0&h=HmBWRFn-_CS1rTwNxt4Bc3izx2557vOQ18aBG35WRyA="
+    },
+    {
+      "name": "Tahin-Pekmez & Helva",
+      "image": "https://cdn.pixabay.com/photo/2013/07/13/12/33/oil-159855__340.png"
+    },
+    {
+      "name": "Çay & Meyve Suyu",
+      "image": "https://cdn.pixabay.com/photo/2017/05/19/07/34/teacup-2325722__340.jpg"
     }
   ]
 }
